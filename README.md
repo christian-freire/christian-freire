@@ -6,8 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-freire&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-freire&hide_progress=true)
-
 ## Tecnologias que uso no dia a dia
 <div style="display: inline_block"></br>
     <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
