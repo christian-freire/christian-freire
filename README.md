@@ -1,4 +1,4 @@
-### Opa, eu sou o Christian Freire, e esse perfil mostra alguns dos meus trabalhos e skills em desenvolvimento web! ✌️
+### Opa, eu sou o Christian Freire, e esse perfil mostra alguns dos meus trabalhos e skills em desenvolvimento! ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chris.freire02/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-freire-63664a1bb/)
