@@ -13,9 +13,6 @@
 func GetKnowledge() []string {
 	return []string{
 		"GoLang",
-		"JavaScript",
-		"HTML5",
-		"CSS3",
 		"PostgreSQL",
 		"DynamoDB",
 		"Docker",
