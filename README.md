@@ -17,6 +17,7 @@ func GetKnowledge() []string {
 		"HTML5",
 		"CSS3",
 		"PostgreSQL",
+		"DynamoDB",
 		"Docker",
 		"Loading...",
 	}
