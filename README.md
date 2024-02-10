@@ -12,10 +12,12 @@
 ```go
 func GetKnowledge() []string {
 	return []string{
-		"GoLang",
+		"Go",
+		"Gin",	
 		"PostgreSQL",
 		"DynamoDB",
 		"Docker",
+		"Git",
 		"Loading...",
 	}
 }
