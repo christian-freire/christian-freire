@@ -16,8 +16,9 @@ func GetKnowledge() []string {
 		"Gin",	
 		"PostgreSQL",
 		"DynamoDB",
+		"AWS - Amazon Web Services",
 		"Docker",
-		"Git",
+                "Git",
 		"Loading...",
 	}
 }
