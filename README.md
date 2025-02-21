@@ -1,10 +1,9 @@
 ### Opa, eu sou o Christian Freire, e esse perfil mostra alguns dos meus projetos e skills! 🚀
 #### Um pouco sobre mim: 
-🟪 Trabalhando na empresa Gamefica.<br>
+🟪 Trabalhando nas empresas Intranet Mall e Gamefica.<br>
 💻 Back-end.<br>
-⚡ Atualmente focado em Go.<br>
+⚡ Stack Principal: Go | AWS | DynamoDB.<br>
 🧪 Ciência da Computação / 2023.<br>
-⏳ Sempre disposto a aprender mais. 
 
 ## Linguagens que mais utilizo no dia a dia 
 
@@ -12,14 +11,12 @@
 ```go
 func GetKnowledge() []string {
 	return []string{
-		"Go",
-		"Gin",	
-		"PostgreSQL",
+		"Go",	
 		"DynamoDB",
-		"AWS - Amazon Web Services",
+		"AWS - ECS, EC2, Lambda, Cognito etc.",
 		"Docker",
                 "Git",
-		"Loading...",
+		"Studying NodeJS...",
 	}
 }
 ```
