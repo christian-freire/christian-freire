@@ -18,7 +18,7 @@ func GetKnowledge() []string {
                 "MySQL",
 		"AWS - ECS, EC2, Lambda, Cognito etc.",
 		"Docker",
-                "Git"
+                "Git",
 	}
 }
 ```
