@@ -11,12 +11,14 @@
 ```go
 func GetKnowledge() []string {
 	return []string{
-		"Go",	
+		"Go",
+                "Node.js",
+                "TypeScript",
 		"DynamoDB",
+                "MySQL",
 		"AWS - ECS, EC2, Lambda, Cognito etc.",
 		"Docker",
-                "Git",
-		"Studying NodeJS...",
+                "Git"
 	}
 }
 ```
