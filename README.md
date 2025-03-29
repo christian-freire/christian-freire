@@ -1,4 +1,4 @@
-### Opa, eu sou o Christian Freire, e esse perfil mostra alguns dos meus projetos e skills! 🚀
+### Eu sou o Christian Freire, e esse perfil mostra alguns dos meus projetos e skills! 🚀
 #### Um pouco sobre mim: 
 🟪 Trabalhando nas empresas Intranet Mall e Gamefica.<br>
 💻 Back-end.<br>
